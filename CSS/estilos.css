@@ -1,0 +1,14 @@
+:root {
+
+--fuente: .staatliches-regular {
+    font-family: "Staatliches", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  --principal: ;
+  --principal_oscuro: ;
+  --secundario: ;
+  --secundario_oscuro: ;
+
+}
